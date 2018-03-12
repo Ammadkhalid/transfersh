@@ -8,5 +8,7 @@ package_dir = {
 'transfersh': 'transfersh'
 },
 author = 'Ammad Khalid',
-install_requires = ['requests']
+author_email = 'Ammadkhalid12@gmail.com',
+install_requires = ['requests'],
+url = 'https://github.com/Ammadkhalid/transfersh'
 )
